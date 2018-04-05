@@ -1,0 +1,54 @@
+.header{
+  margin-bottom: 60px;
+  margin-top:10px;
+}
+
+.header-logo{
+  width: 30%;
+  height: 100%;
+}
+
+
+.tableFont{
+  text-align: center;
+}
+
+
+.leaderboard-div{
+  background-color: #09630c;
+  height:110px;
+  text-align:center;
+}
+
+h3{
+  padding-top:20px;
+  color:white;
+}
+
+.rightButton{
+  margin-left:20px;
+}
+
+h6{
+  display:inline-block;
+  margin-right: 10px;
+}
+
+.header-group{
+  padding-top:3px;
+}
+
+.profile-badge{
+  height:50px;
+  width:50px;
+  border-radius: 10px;
+  border:solid 1px black
+}
+
+.profile-name{
+  padding-left:10px;
+}
+
+.span{
+  float:left;
+}
