@@ -11,7 +11,7 @@ class App extends Component {
     super(props);
     this.state={
       campers: [],
-      sortByTitle: 'Past 30 days',
+      sortByTitle: 'Past 30 Days',
       sortBy: 'https://fcctop100.herokuapp.com/api/fccusers/top/recent'
     }
     this.camperGrab(this.state.sortBy);
